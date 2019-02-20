@@ -1,0 +1,8 @@
+[package]
+name = "grahams-game"
+version = "0.1.0"
+authors = ["scl"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
